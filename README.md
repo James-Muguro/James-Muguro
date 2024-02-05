@@ -1,27 +1,16 @@
-### Hello! 👋 Welcome to My World 🌍
-
-<img
-  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
-  alt="Alternative Text"
-/>
-Example:
-<img
-  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
+# Hi there, I'm James! 👋
 
 ## 🚀 About Me
-Greetings! I'm James, a passionate Business Analyst hailing from the vibrant city of Nairobi, Kenya. With over 3 years of experience, I specialize in utilizing the dynamic trio of Python, SQL, and Power BI to unearth actionable insights that drive business growth.
+I'm a Business Analyst from Nairobi, Kenya, with a passion for transforming data into actionable insights.
 
-## 🎯 What Captivates My Focus
-Embarking on a journey of:
-- Crafting pristine data: Cleaning, manipulating, and creating visually compelling visualizations.
-- Elevating business processes: Innovating and optimizing workflows.
-- Nurturing fruitful stakeholder relationships: Bridging the gap between data and decisions.
+## 🎯 I'm currently focusing on...
+- 📊 Crafting clean, visual data representations
+- 🔄 Innovating and optimizing business processes
+- 🤝 Building bridges between data and decisions
 
-## 💼 My Arsenal of Skills
-- **Languages:** Proficient in Python and R, adept at SQL.
-- **Tools:** Power BI maestro, Navigator of Microsoft Dynamics 365 Business Central, Excel virtuoso.
+## 💼 Skills
+- **Languages:** Python 🐍, R, SQL
+- **Tools:** Power BI, Microsoft Dynamics 365 Business Central, Excel
 
 ## 📫 Connect With Me:
 - LinkedIn: https://www.linkedin.com/in/james-muguro/
