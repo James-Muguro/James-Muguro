@@ -26,9 +26,8 @@ Let's weave insights and elevate possibilities together! 🚀✨
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamande-254&hide_progress=true&layout=compact&langs_count=8)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kamande-254&repo=github-readme-stats)](https://github.com/Kamande-254/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Kamande-254&repo=github-readme-stats)](https://github.com/Kamande-254/github-readme-stats)
 
 <!--
 **Kamande-254/Kamande-254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
