@@ -22,7 +22,7 @@ I'm a Business Analyst from Nairobi, Kenya, with a passion for transforming data
 Let's weave insights and elevate possibilities together! 🚀✨
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamande-254&show_icons=true&theme=radical&hide_rank=true)](https://github.com/Kamande-254)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamande-254&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamande-254&hide_progress=true&layout=compact)
 
 <!--
 **Kamande-254/Kamande-254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
