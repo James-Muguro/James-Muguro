@@ -8,7 +8,8 @@ I'm a Business Analyst from Nairobi, Kenya, with a passion for transforming data
 - 🔄 Innovating and optimizing business processes
 - 🤝 Building bridges between data and decisions
 
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 💼 Skills
 - **Languages:** Python 🐍, R, SQL
@@ -22,7 +23,6 @@ Let's weave insights and elevate possibilities together! 🚀✨
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Kamande-254)](https://github.com/Kamande-254)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamande-254&layout=compact)](https://github.com/Kamande-254)
 <!--
 **Kamande-254/Kamande-254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
