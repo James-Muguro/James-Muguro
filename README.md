@@ -1,5 +1,15 @@
 ### Hello! 👋 Welcome to My World 🌍
 
+<img
+  src="https://github.com/<username>/<repository-name>/blob/<branch-name>/images/stat.svg"
+  alt="Alternative Text"
+/>
+Example:
+<img
+  src="https://github.com/avinal/avinal/blob/main/images/stat.svg"
+  alt="Avinal WakaTime Activity"
+/>
+
 ## 🚀 About Me
 Greetings! I'm James, a passionate Business Analyst hailing from the vibrant city of Nairobi, Kenya. With over 3 years of experience, I specialize in utilizing the dynamic trio of Python, SQL, and Power BI to unearth actionable insights that drive business growth.
 
