@@ -15,8 +15,8 @@ I'm a Business Analyst from Nairobi, Kenya, with a passion for transforming data
 - **Tools:** Power BI, Microsoft Dynamics 365 Business Central, Excel
 
 ## 📫 Connect With Me:
-- LinkedIn: https://www.linkedin.com/in/james-muguro/
-- Email: kamandemuguro@gmail.com
+- LinkedIn: [James Muguro](https://www.linkedin.com/in/james-muguro/)
+- Email: [kamandemuguro@gmail.com](mailto:kamandemuguro@gmail.com)
 
 Let's weave insights and elevate possibilities together! 🚀✨
 
