@@ -8,6 +8,8 @@ I'm a Business Analyst from Nairobi, Kenya, with a passion for transforming data
 - 🔄 Innovating and optimizing business processes
 - 🤝 Building bridges between data and decisions
 
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 ## 💼 Skills
 - **Languages:** Python 🐍, R, SQL
 - **Tools:** Power BI, Microsoft Dynamics 365 Business Central, Excel
