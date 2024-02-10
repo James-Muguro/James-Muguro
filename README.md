@@ -9,6 +9,14 @@ I'm a Business Analyst from Nairobi, Kenya, with a passion for transforming data
 - 🤝 Building bridges between data and decisions
 
 <!--START_SECTION:waka-->
+
+```txt
+Python     4 hrs 16 mins   ██████████████████▒░░░░░░   73.37 %
+Markdown   1 hr 22 mins    ██████░░░░░░░░░░░░░░░░░░░   23.56 %
+Other      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Git        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 💼 Skills
