@@ -1,27 +1,26 @@
 # Hi there, I'm James! 👋
 
-## 🚀 About Me
-I'm a Business Analyst from Nairobi, Kenya, with a passion for transforming data into actionable insights.
+### 📝 About Me
+I'm a highly motivated data scientist with a strong passion for transforming data into actionable insights. With 2 years of industry experience, I specialize in building and deploying data-driven solutions that address real-world problems. 
 
-## 🎯 I'm currently focusing on...
-- 📊 Crafting clean, visual data representations
-- 🔄 Innovating and optimizing business processes
-- 🤝 Building bridges between data and decisions
+### 💼 Expertise
+- **Data Analysis**: Proficient in data cleaning, wrangling, and visualization.
+- **Programming**: Expert in Python and SQL, with intermediate skills in R.
+- **Tools**: Experienced in using Power BI, Excel, Tableau, Looker, and Big Query.
 
-<!--START_SECTION:waka-->
+### 🎯 Current Focus
+- Deepening foundational skills in data science and machine learning.
+- Expanding my technical toolkit with advanced data analysis and machine learning libraries.
+- Fostering domain expertise to better understand and solve industry-specific problems.
+- Building soft skills to effectively communicate data-driven insights.
+- Staying informed and engaged with the latest trends and advancements in the field.
 
-```txt
-Python     4 hrs 16 mins   ██████████████████▒░░░░░░   73.37 %
-Markdown   1 hr 22 mins    ██████░░░░░░░░░░░░░░░░░░░   23.56 %
-Other      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
-Git        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
-```
-
-<!--END_SECTION:waka-->
-
-## 💼 Skills
-- **Languages:** Python 🐍, R, SQL
-- **Tools:** Power BI, Microsoft Dynamics 365 Business Central, Excel
+### 🛠️ Technical Skills
+- **Python**: Proficient in writing efficient and clean Python code for data analysis.
+- **SQL**: Expert in writing SQL queries for data extraction and manipulation.
+- **Pandas**: Skilled in using Pandas for data manipulation and analysis.
+- - **R**: Proficient in writing efficient and clean R scripts for data analysis.
+- **Data Visualization**: Proficient in using Matplotlib and Seaborn for creating insightful data visualizations.
 
 ## 📫 Connect With Me:
 - LinkedIn: [James Muguro](https://www.linkedin.com/in/james-muguro/)
@@ -33,6 +32,18 @@ Let's weave insights and elevate possibilities together! 🚀✨
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=James-Muguro&hide_progress=true&layout=compact&langs_count=8)
+
+
+<!--START_SECTION:waka-->
+
+```txt
+Python     4 hrs 16 mins   ██████████████████▒░░░░░░   73.37 %
+Markdown   1 hr 22 mins    ██████░░░░░░░░░░░░░░░░░░░   23.56 %
+Other      9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+Git        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+```
+
+<!--END_SECTION:waka-->
 
 
 <!--
