@@ -19,7 +19,7 @@ I'm a highly motivated data scientist with a strong passion for transforming dat
 - **Python**: Proficient in writing efficient and clean Python code for data analysis.
 - **SQL**: Expert in writing SQL queries for data extraction and manipulation.
 - **Pandas**: Skilled in using Pandas for data manipulation and analysis.
-- - **R**: Proficient in writing efficient and clean R scripts for data analysis.
+- **R**: Proficient in writing efficient and clean R scripts for data analysis.
 - **Data Visualization**: Proficient in using Matplotlib and Seaborn for creating insightful data visualizations.
 
 ## 📫 Connect With Me:
