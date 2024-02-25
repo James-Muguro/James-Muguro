@@ -38,14 +38,14 @@ Let's weave insights and elevate possibilities together! 🚀✨
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 February 2024 - To: 22 February 2024
+From: 04 February 2024 - To: 23 February 2024
 
-Total Time: 10 hrs 31 mins
+Total Time: 11 hrs 7 mins
 
-Python       6 hrs 25 mins   >>>>>>>>>>>>>>-----------   56.44 %
-R            2 hrs 19 mins   >>>>>--------------------   20.37 %
-Markdown     1 hr 22 mins    >>>----------------------   12.08 %
-Other        51 mins         >>-----------------------   07.52 %
+Python       7 hrs 1 min     >>>>>>>>>>>>>>>----------   58.61 %
+R            2 hrs 19 mins   >>>>>--------------------   19.35 %
+Markdown     1 hr 22 mins    >>>----------------------   11.48 %
+Other        51 mins         >>-----------------------   07.14 %
 ```
 
 <!--END_SECTION:waka-->
