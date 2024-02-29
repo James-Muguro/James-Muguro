@@ -38,14 +38,13 @@ Let's weave insights and elevate possibilities together! 🚀✨
 <!--START_SECTION:waka-->
 
 ```rust
-From: 04 February 2024 - To: 28 February 2024
-
 Total Time: 16 hrs 57 mins
 
-Python                       >>>>>>>>>>---------------   39.33 %
-R                            >>>----------------------   12.98 %
-SQL                          >>-----------------------   08.59 %
-Git Config                   >------------------------   02.99 %
+Python       7 hrs 1 min     >>>>>>>>>>---------------   39.33 %
+R            2 hrs 19 mins   >>>----------------------   12.98 %
+SQL          1 hr 31 mins    >>-----------------------   08.59 %
+Git Config   32 mins         >------------------------   02.99 %
+JavaScript   22 mins         >------------------------   02.13 %
 ```
 
 <!--END_SECTION:waka-->
