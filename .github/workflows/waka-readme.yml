@@ -28,7 +28,7 @@ jobs:
           SHOW_TOTAL: true # optional
           SHOW_MASKED_TIME: false # optional
           STOP_AT_OTHER: true # optional
-          IGNORED_LANGUAGES: YAML JSON TOML Markdown Text Other CSV Git Git Config Bash #optional
+          IGNORED_LANGUAGES: YAML JSON TOML Markdown Text Other CSV Git 'Git Config' Bash #optional
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
           TARGET_BRANCH: master # optional
           TARGET_PATH: README.md # optional
