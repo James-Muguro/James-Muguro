@@ -1,5 +1,3 @@
-# 📊 Data Scientist | 🤖 Machine Learning Enthusiast | 🐍 Python Developer | 🧩 Problem Solver
-
 ## 📝 About Me
 - I'm a Data Scientist and Business Analyst with a passion for transforming data into actionable insights. 
 - Proficient in SQL, R, Excel, Power BI, and Python, I bring a versatile set of tools to the table.
