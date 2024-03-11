@@ -1,20 +1,13 @@
 # 📊 Data Scientist | 🤖 Machine Learning Enthusiast | 🐍 Python Developer | 🧩 Problem Solver
 
 ## 📝 About Me
-- Highly motivated data scientist dedicated to transforming data into actionable insights.
-- 2 years of industry experience specializing in building and deploying data-driven solutions.
+- I'm a Data Scientist and Business Analyst with a passion for transforming data into actionable insights. 
+- Proficient in SQL, R, Excel, Power BI, and Python, I bring a versatile set of tools to the table.
 
 ## 💼 Expertise
 - **Data Analysis:** Proficient in data cleaning, wrangling, and visualization.
 - **Programming:** Expert in Python and SQL, intermediate skills in R.
 - **Tools:** Experienced in Power BI, Excel, Tableau, Looker, and Big Query.
-
-## 🎯 Current Focus
-- Deepening foundational skills in data science and machine learning.
-- Expanding technical toolkit with advanced data analysis and machine learning libraries.
-- Fostering domain expertise for industry-specific problem-solving.
-- Building soft skills to effectively communicate data-driven insights.
-- Staying informed and engaged with the latest trends in the field.
 
 ## 🛠️ Technical Skills
 - **Python:** Proficient in writing efficient and clean Python code for data analysis.
@@ -22,12 +15,14 @@
 - **Pandas:** Skilled in using Pandas for data manipulation and analysis.
 - **Machine Learning:** Learning and exploring Scikit-learn, TensorFlow, and PyTorch.
 - **Data Visualization:** Proficient in using Matplotlib and Seaborn for insightful visualizations.
+  
+## 📚 Looking Forward
+As an avid learner, I'm always seeking opportunities for professional growth. Whether it's collaborating on a project or exploring new opportunities, I welcome any outreach. Let's connect!
 
 ## 📫 Connect With Me:
 - LinkedIn: [James Muguro](https://www.linkedin.com/in/james-muguro/)
 - Email: [kamandemuguro@gmail.com](mailto:kamandemuguro@gmail.com)
 
-Let's weave insights and elevate possibilities together! 🚀✨
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=James-Muguro&show_icons=true&theme=radical&hide_rank=true)](https://github.com/James-Muguro)
 
