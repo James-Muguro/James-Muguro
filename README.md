@@ -31,13 +31,14 @@ As an avid learner, I'm always seeking opportunities for professional growth. Wh
 <!--START_SECTION:waka-->
 
 ```rust
-Total Time: 27 hrs 53 mins
+Total Time: 30 hrs 22 mins
 
-Python       14 hrs 44 mins  >>>>>>>>>>>>>------------   50.01 %
-SQL          2 hrs 19 mins   >>-----------------------   07.92 %
-R            2 hrs 19 mins   >>-----------------------   07.86 %
-Git Config   33 mins         -------------------------   01.91 %
-JavaScript   22 mins         -------------------------   01.29 %
+Python       14 hrs 55 mins  >>>>>>>>>>>>-------------   46.69 %
+SQL          3 hrs 22 mins   >>>----------------------   10.56 %
+R            2 hrs 48 mins   >>-----------------------   08.79 %
+Git Config   33 mins         -------------------------   01.76 %
+JavaScript   22 mins         -------------------------   01.19 %
+RMarkdown    2 mins          -------------------------   00.15 %
 ```
 
 <!--END_SECTION:waka-->
