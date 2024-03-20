@@ -11,15 +11,11 @@
 - **Python:** Proficient in writing efficient and clean Python code for data analysis.
 - **SQL:** Expert in writing SQL queries for data extraction and manipulation.
 - **Pandas:** Skilled in using Pandas for data manipulation and analysis.
-- **Machine Learning:** Learning and exploring Scikit-learn, TensorFlow, and PyTorch.
+- **Machine Learning:** Exploring Scikit-learn, TensorFlow, and PyTorch.
 - **Data Visualization:** Proficient in using Matplotlib and Seaborn for insightful visualizations.
   
 ## 📚 Looking Forward
 As an avid learner, I'm always seeking opportunities for professional growth. Whether it's collaborating on a project or exploring new opportunities, I welcome any outreach. Let's connect!
-
-## 📫 Connect With Me:
-- LinkedIn: [James Muguro](https://www.linkedin.com/in/james-muguro/)
-- Email: [kamandemuguro@gmail.com](mailto:kamandemuguro@gmail.com)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=James-Muguro&show_icons=true&theme=radical&hide_rank=true)](https://github.com/James-Muguro)
