@@ -30,10 +30,9 @@ As an avid learner, I'm always seeking opportunities for professional growth. Wh
 Total Time: 40 hrs 5 mins
 
 Python       21 hrs 2 mins   >>>>>>>>>>>>-------------   48.58 %
+Markdown     6 hrs 53 mins   >>>>---------------------   15.90 %
 SQL          4 hrs 31 mins   >>>----------------------   10.44 %
-R            3 hrs 9 mins    >>-----------------------   07.31 %
-Git Config   43 mins         -------------------------   01.66 %
-JavaScript   22 mins         -------------------------   00.88 %
+Other        3 hrs 12 mins   >>-----------------------   07.42 %
 ```
 
 <!--END_SECTION:waka-->
