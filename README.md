@@ -1,18 +1,5 @@
 ## 📝 About Me
-- I'm a Data Scientist and Business Analyst with a passion for transforming data into actionable insights. 
-- Proficient in SQL, R, Excel, Power BI, and Python, I bring a versatile set of tools to the table.
-
-## 💼 Expertise
-- **Data Analysis:** Proficient in data cleaning, wrangling, and visualization.
-- **Programming:** Expert in Python and SQL, intermediate skills in R.
-- **Tools:** Experienced in Power BI, Excel, Tableau, Looker, and Big Query.
-
-## 🛠️ Technical Skills
-- **Python:** Proficient in writing efficient and clean Python code for data analysis.
-- **SQL:** Expert in writing SQL queries for data extraction and manipulation.
-- **Pandas:** Skilled in using Pandas for data manipulation and analysis.
-- **Machine Learning:** Exploring Scikit-learn, TensorFlow, and PyTorch.
-- **Data Visualization:** Proficient in using Matplotlib and Seaborn for insightful visualizations.
+🔍 Data Scientist and Business Analyst with a passion for data. Proficient in SQL, R, Excel, Power BI, and Python 🐍. Specializes in data analysis, cleaning, wrangling, and visualization 📊. Experienced in using tools such as Power BI, Excel, and Big Query. Skilled in Python coding, SQL data manipulation, and using libraries like Pandas 🐼. Knowledgeable in machine learning frameworks including Scikit-learn, TensorFlow, and PyTorch 🔬. Always eager to learn, collaborate, and explore new opportunities 🚀.
   
 ## 📚 Looking Forward
 As an avid learner, I'm always seeking opportunities for professional growth. Whether it's collaborating on a project or exploring new opportunities, I welcome any outreach. Let's connect!
