@@ -13,15 +13,6 @@ As an avid learner, I'm always seeking opportunities for professional growth. Wh
 
 <!--START_SECTION:waka-->
 
-```rust
-Total Time: 40 hrs 5 mins
-
-Python       21 hrs 2 mins   >>>>>>>>>>>>-------------   47.71 %
-Markdown     6 hrs 53 mins   >>>>---------------------   15.61 %
-SQL          4 hrs 31 mins   >>>----------------------   10.26 %
-Other        4 hrs           >>-----------------------   09.08 %
-```
-
 <!--END_SECTION:waka-->
 
 
