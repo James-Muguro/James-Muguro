@@ -27,7 +27,23 @@ Data Scientist and Business Analyst with a passion for data. Proficient in SQL, 
 As an avid learner, I'm always seeking opportunities for professional growth. Whether it's collaborating on a project or exploring new opportunities, I welcome any outreach. Let's connect!
 
 
-[![wakatime](https://wakatime.com/badge/user/018d7806-afc3-49ef-9b91-35948228c15f.svg)](https://wakatime.com/@018d7806-afc3-49ef-9b91-35948228c15f)
+## My Stats
+
+### WakaTime
+
+<p align="center">
+  <a href="https://wakatime.com/@018d7806-afc3-49ef-9b91-35948228c15f">
+    <img src="https://wakatime.com/badge/user/018d7806-afc3-49ef-9b91-35948228c15f.svg" alt="wakatime">
+  </a>
+</p>
+
+### GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=James-Muguro&theme=gruvbox" alt="trophy">
+  </a>
+</p>
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=James-Muguro&show_icons=true&theme=radical&hide_rank=true)](https://github.com/James-Muguro)
