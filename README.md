@@ -22,7 +22,8 @@
 [<img alt="SahilChachra | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/james-muguro/)
 [<img alt="ChachraSahil | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Itskamandem)
 
-  
+[![wakatime](https://wakatime.com/badge/user/018d7806-afc3-49ef-9b91-35948228c15f.svg)](https://wakatime.com/@018d7806-afc3-49ef-9b91-35948228c15f)
+
 ## 📚 Looking Forward
 As an avid learner, I'm always seeking opportunities for professional growth. Whether it's collaborating on a project or exploring new opportunities, I welcome any outreach. Let's connect!
 
