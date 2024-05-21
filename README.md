@@ -1,5 +1,5 @@
 ## 📝 About Me
-🔍 Data Scientist and Business Analyst with a passion for data. Proficient in SQL, R, Excel, Power BI, and Python 🐍. Specializes in data analysis, cleaning, wrangling, and visualization 📊. Experienced in using tools such as Power BI, Excel, and Big Query. Skilled in Python coding, SQL data manipulation, and using libraries like Pandas 🐼. Knowledgeable in machine learning frameworks including Scikit-learn, TensorFlow, and PyTorch 🔬. Always eager to learn, collaborate, and explore new opportunities 🚀.
+Data Scientist and Business Analyst with a passion for data. Proficient in SQL, R, Excel, Power BI, and Python 🐍. Specializes in data analysis, cleaning, wrangling, and visualization 📊. Experienced in using tools such as Power BI, Excel, and Big Query. Skilled in Python coding, SQL data manipulation, and using libraries like Pandas 🐼. Knowledgeable in machine learning frameworks including Scikit-learn, TensorFlow, and PyTorch 🔬. Always eager to learn, collaborate, and explore new opportunities 🚀.
 
 ### Languages and Tools
 [<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />]()
@@ -22,10 +22,12 @@
 [<img alt="SahilChachra | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/james-muguro/)
 [<img alt="ChachraSahil | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/Itskamandem)
 
-[![wakatime](https://wakatime.com/badge/user/018d7806-afc3-49ef-9b91-35948228c15f.svg)](https://wakatime.com/@018d7806-afc3-49ef-9b91-35948228c15f)
 
 ## 📚 Looking Forward
 As an avid learner, I'm always seeking opportunities for professional growth. Whether it's collaborating on a project or exploring new opportunities, I welcome any outreach. Let's connect!
+
+
+[![wakatime](https://wakatime.com/badge/user/018d7806-afc3-49ef-9b91-35948228c15f.svg)](https://wakatime.com/@018d7806-afc3-49ef-9b91-35948228c15f)
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=James-Muguro&show_icons=true&theme=radical&hide_rank=true)](https://github.com/James-Muguro)
