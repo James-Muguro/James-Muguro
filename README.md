@@ -1,5 +1,5 @@
 ## 📝 About Me
-Data Scientist and Business Analyst with a passion for data. Proficient in SQL, R, Excel, Power BI, and Python 🐍. Specializes in data analysis, cleaning, wrangling, and visualization 📊. Experienced in using tools such as Power BI, Excel, and Big Query. Skilled in Python coding, SQL data manipulation, and using libraries like Pandas 🐼. Knowledgeable in machine learning frameworks including Scikit-learn, TensorFlow, and PyTorch 🔬. Always eager to learn, collaborate, and explore new opportunities 🚀.
+Business Functional Analyst specializing in data analysis, visualization, and technology-driven solutions. Proficient in SQL, Python, R, Power BI, and Excel, with expertise in data wrangling, cleaning, and creating insightful dashboards. Experienced in system configuration, data migration, and integration, as well as leveraging tools like BigQuery and libraries such as Pandas and Scikit-learn to solve complex business challenges. Passionate about using data to optimize processes, drive efficiency, and deliver impactful results.
 
 ### Languages and Tools
 [<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />]()
