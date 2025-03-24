@@ -1,5 +1,5 @@
 ## 📝 About Me
-Business Functional Analyst specializing in data analysis, visualization, and technology-driven solutions. Proficient in SQL, Python, R, Power BI, and Excel, with expertise in data wrangling, cleaning, and creating insightful dashboards. Experienced in system configuration, data migration, and integration, as well as leveraging tools like BigQuery and libraries such as Pandas and Scikit-learn to solve complex business challenges. Passionate about using data to optimize processes, drive efficiency, and deliver impactful results.
+Functional Business Analyst with a strong focus on data analysis, visualization, and technology-driven solutions. Skilled in SQL, Python, R, Power BI, and Excel, with expertise in data wrangling, cleaning, and building insightful dashboards. Experienced in system configuration, data migration, and integration, leveraging tools like BigQuery and libraries such as Pandas and Scikit-learn to solve complex business challenges. Passionate about transforming data into actionable insights to optimize processes, enhance efficiency, and drive meaningful business impact.
 
 ### Languages and Tools
 [<img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />]()
@@ -21,12 +21,11 @@ Business Functional Analyst specializing in data analysis, visualization, and te
 
 <p align="center">
 
-[<img alt="SahilChachra | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/james-muguro/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-muguro/)
 [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Itskamandem)
 
 ## 📚 Looking Forward
-As an avid learner, I'm always seeking opportunities for professional growth. Whether it's collaborating on a project or exploring new opportunities, I welcome any outreach. Let's connect!
-
+Passionate about continuous learning and professional growth, I'm always open to new opportunities and collaborations. Whether it's tackling innovative projects or exchanging ideas, I’d love to connect!
 
 ## My Stats
 
