@@ -23,6 +23,7 @@ Functional Business Analyst with a strong focus on data analysis, visualization,
 <p align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-muguro/)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mugurojk)
 [![X](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Itskamandem)
 
 ## 📚 Looking Forward
