@@ -79,7 +79,7 @@ I'm actively seeking opportunities in **Data Analytics**, **Business Intelligenc
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/james-muguro/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mugurojk)
 [![X Profile](https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Itskamandem)
-[<image-card alt="Email" src="https://img.shields.io/badge/kamandemuguro@gmail.com-D14836?style=for-the-badge" ></image-card>](mailto:kamandemuguro@gmail.com)
+[![Email](https://img.shields.io/badge/kamandemuguro@gmail.com-D14836?style=for-the-badge)](mailto:kamandemuguro@gmail.com)
 
 ---
 
