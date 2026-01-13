@@ -56,7 +56,7 @@ Passionate about bridging business needs with data-driven solutions and ERP impl
 ---
 ## 🚀 My Coding Activity
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018d7806-afc3-49ef-9b91-35948228c15f&layout=compact)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jamesmuguro&layout=compact)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
