@@ -54,13 +54,9 @@ Passionate about bridging business needs with data-driven solutions and ERP impl
 - Ensure data quality, governance, and compliance
 
 ---
-## 📊 GitHub Stats
+## 🚀 My Coding Activity
 
-![Wakatime](https://wakatime.com/badge/user/018d7806-afc3-49ef-9b91-35948228c15f.svg)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=James-Muguro&show_icons=true&theme=radical&hide_rank=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=James-Muguro&layout=compact&theme=radical&langs_count=8)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=018d7806-afc3-49ef-9b91-35948228c15f&layout=compact)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
