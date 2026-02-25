@@ -24,12 +24,6 @@ ready for use at scale.
 I write production-grade code, care deeply about data quality, 
 and build systems that are easy to maintain and built to last.
 
-- 🔭 Currently working on: **[current project or role]**
-- 🌱 Currently learning: **[e.g. Spark Streaming / dbt Advanced]**
-- 💬 Ask me about: **ETL/ELT, pipeline design, data modeling, SQL**
-- 📍 Based in: **[Your Location]**
-- 👔 Open to: **Full-time roles · Freelance · Contracts**
-
 ---
 
 ## 🛠️ Tech Stack
