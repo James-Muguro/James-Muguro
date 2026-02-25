@@ -68,17 +68,6 @@ and build systems that are easy to maintain and built to last.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## ⏱️ Coding Activity
 
 ![Wakatime](https://wakatime.com/badge/user/018d7806-afc3-49ef-9b91-35948228c15f.svg)
