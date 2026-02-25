@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-# Hi, I'm [Name] 👋
+# Hi, I'm James Muguro 👋
 ### Data Engineer | Pipelines · Warehousing · Cloud · Orchestration
 
 *Building reliable data infrastructure that scales.*
